@@ -4,7 +4,7 @@ function Form() {
 
     const movie = {
         id: 1,
-        image: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rqeYMLryjcawh2JeRpCVUDXYM5b.jpg",
+        image: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6stEKYqgLBhSieTRnnZ5ShE5ZPS.jpg",
         title: "The Walking Dead",
         count: 2,
         score: 4.5
