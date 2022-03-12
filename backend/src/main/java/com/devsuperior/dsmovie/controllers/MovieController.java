@@ -1,3 +1,4 @@
+
 package com.devsuperior.dsmovie.controllers;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -13,7 +14,7 @@ import com.devsuperior.dsmovie.services.MovieService;
 
 @RestController
 @RequestMapping(value = "/movies")
-public class MovieController {
+public class ScoreController {
 	
 	@Autowired
 	private MovieService service;
