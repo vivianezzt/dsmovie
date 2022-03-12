@@ -14,7 +14,7 @@ import com.devsuperior.dsmovie.services.MovieService;
 
 @RestController
 @RequestMapping(value = "/movies")
-public class ScoreController {
+public class MovieController {
 	
 	@Autowired
 	private MovieService service;
